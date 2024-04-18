@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html 
+ 
+   <head>
+         <title> Marquee & Bdo</title>
+     </head>
+     <body>
+         <p>This content is protected by a copy right &copy; 2024.</p>
+          
+         <p>This productis a registered trademark of example crop &reg;.</p>
+       
+         <p>This is an example of &lt;ratan&gt; mytag </p>
+  
+         <bdo dir="rtl">Welcome to Hyderabad</bdo>
+ 
+         <br><br>
+  
+         <marquee direction="left" Scrollamount="10">
+             Ratan sir wowww....
+         </marquee>
+
+         <hr>
+         
+         <marquee direction="right" Scrollamount="5">
+             Sathya Tech Nice....
+         </marquee>
+     </body>
+	</html>

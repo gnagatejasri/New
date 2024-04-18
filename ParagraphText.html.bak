@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>paragraph Text Formatting </title>
+	</head>
+	</body>
+     <p>Welcome to <b>Ratan sir</b>classes,sir will teach
+     <i>Fullstack Java Developers </i> </p>
+	<p> HTML Stands for Hyper text <Strong> Markup Language</Strong>.HTML was Created by <em> Berners-Lee</em> in<mark>1991</mark>.with<small>Html</small>you can<del> create </del> your own website.If you want to start a career as a professional web designer,
+	<ins>HTML and css</ins> designing is a must skill.
+	</p>
+	</body>
+</html>
+
